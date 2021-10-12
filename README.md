@@ -1,5 +1,5 @@
 # My Portfolio
-Hello! 👋 My name is Sutthita Phromchomcha and I'm a 3rd Year BSc (Hons) in Computing student.
+Hello! 👋 My name is Sutthita Phromchomcha and I'm a 3rd Year BSc (Hons) in Computing student 💻.
 
 I have a keen interest in Web Design and Development as I enjoy being able to experiment new ideas and designs 😄.
 
