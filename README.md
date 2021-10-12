@@ -30,14 +30,15 @@ Developed a booking mobile application 📱 that allows users to access, view, a
 - Users can select their preferred destination and the application will provide a list of available accommodations for that location.
 - ÉIRE Booking supports three type of accommodations in Ireland: Hotels, Hostels and Airbnb’s.
 
-## My skills and qualities
+
+## About Me  
+
+
+#### Skills and qualities
 -	😊 Highly organizational and motivated.
 -	⌚Punctual, flexible, and a strong work ethic.
 -	❤️‍🔥 Passionate learner and cooperative.
 -	✨ Fluent in languages - English and Thai ✨
-
-
-## About Me  
 
 - 🌱 I’m currently learning
 
