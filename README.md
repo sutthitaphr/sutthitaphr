@@ -17,6 +17,7 @@ This is the first game project that gave me a comprehensive understanding of the
 - The game started with two players in space 🌌, in order to get back to Earth the players need to answer the questions correctly.
 - The quizzes was about space.
 - A spaceship is waiting for them so whichever player gets the question right they will move towards the spaceship by 1 step  🚀.
+#### Results: 73%
 
 
 
@@ -30,7 +31,7 @@ Developed a booking mobile application 📱 that allows users to access, view, a
 - Application name: “ÉIRE Booking”
 - Users can select their preferred destination and the application will provide a list of available accommodations for that location.
 - ÉIRE Booking supports three type of accommodations in Ireland: Hotels, Hostels and Airbnb’s.
-
+#### Results: 75.2%
 
 ## About Me  
 
