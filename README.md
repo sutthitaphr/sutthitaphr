@@ -1,6 +1,6 @@
 ![1_5TRuG7tG0KrZJXKoFtHlSg](https://user-images.githubusercontent.com/56543762/137104808-e6cf4009-49b6-446f-be78-540ce51f6f6f.jpeg)
 
-Hello! 👋 My name is Sutthita Phromchomcha and I'm a 3rd Year BSc (Hons) in Computing student 💻.
+Hello! 👋 My name is Sutthita Phromchomcha and I'm a graduate student in Computing Science💻.
 
 I have a keen interest in Web Design and Development as I enjoy being able to experiment new ideas and designs 😄.
 
